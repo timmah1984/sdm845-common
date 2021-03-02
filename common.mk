@@ -86,7 +86,7 @@ PRODUCT_PACKAGES_DEBUG += \
 
 # Camera HIDL
 PRODUCT_PACKAGES += \
-    Snap \
+    TheCamera \
     libcvface_api \
     libqti-perfd-client \
     vendor.oneplus.camera.CameraHIDL@1.0 \
